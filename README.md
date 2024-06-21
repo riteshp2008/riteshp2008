@@ -23,6 +23,7 @@ I've developed a solid foundation in agile development methodologies, ensuring t
 - Passionate about learning new programming languages and frameworks to enhance my skill set.
 
 🌱 Let's Connect:
+
 I'm always excited to connect with fellow developers, share knowledge, and collaborate on exciting projects. Feel free to reach out to me for any discussions, collaborations, or just a friendly chat about technology!
 
 📫 **Contact Me:**
